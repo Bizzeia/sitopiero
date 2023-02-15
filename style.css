@@ -80,16 +80,17 @@
  .motivo2 {
     background-size: cover;
     min-height: 500px;
-<<<<<<< HEAD
-    height: 100vh;
-    background-color: azure;
-=======
     height: 80vh;
     background-color: rgb(228, 20, 48);
     position: relative;
     display: flex;
->>>>>>> d4effea (finito)
  }
+
+.motivo2DX {
+    
+}
+
+
 
  #skibidibop {
     position: absolute;

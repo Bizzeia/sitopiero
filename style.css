@@ -1,0 +1,137 @@
+.rounded {
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+}
+
+.image-box {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.bordoimg {
+    display: block;
+    margin: auto;
+    border-radius: 100%;
+    border: 5px solid #ff675b
+}
+
+
+.nome {
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+}
+
+.box_nome {
+        border-width:3px;
+        border-style:solid;
+        border-color:#ff0000;
+        background-color: rgba(34, 0, 0, 0.9);
+        padding: 9px;
+}
+
+
+
+.text1 {
+    left: 55px;
+    font-size: 50px;
+    text-align: right;
+    padding-right: 30px;
+    padding-top: 10px;
+    color: aliceblue;
+}
+
+.text2 {
+    left: 55px;
+    font-size: 30px;
+    text-align: right;
+    padding-right: 30px;
+    color: aliceblue;
+}
+
+.text3 {
+    left: 55px;
+    font-size: 50px;
+    text-align: right;
+    padding-right: 30px;
+    padding-top: 10px;
+    color: black;
+}
+
+.text4 {
+    left: 55px;
+    font-size: 30px;
+    text-align: right;
+    padding-right: 30px;
+    color: black;
+}
+
+
+.motivo1 {
+    background: url(images/kebab1-2-3.jpg);
+    background-size: cover;
+    min-height: 500px;
+    height: 100vh;
+    padding-left: 30px;
+ }
+
+ .motivo2 {
+    background-size: cover;
+    min-height: 500px;
+<<<<<<< HEAD
+    height: 100vh;
+    background-color: azure;
+=======
+    height: 80vh;
+    background-color: rgb(228, 20, 48);
+    position: relative;
+    display: flex;
+>>>>>>> d4effea (finito)
+ }
+
+ #skibidibop {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    object-fit: contain;
+ }
+
+.ski {
+    padding: 15px;
+    padding-right: 70px;
+}
+
+ body {
+    margin: 0px;
+ }
+
+ #ex {
+    background: url(images/bandiera.jpg);
+    background-attachment: fixed;
+ }
+
+
+ #footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+
+ }
+
+ .agababa {
+    display: flex;
+    justify-content: right;
+    margin-right: 30px;
+ }
+
+ .agababa img {
+    height: 270px;
+ }
+
+.mt {
+    margin-top: 30px;
+}

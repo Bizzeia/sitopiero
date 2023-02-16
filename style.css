@@ -57,7 +57,7 @@
     text-align: right;
     padding-right: 30px;
     padding-top: 10px;
-    color: black;
+    color: white;
 }
 
 .text4 {
@@ -65,7 +65,7 @@
     font-size: 30px;
     text-align: right;
     padding-right: 30px;
-    color: black;
+    color: white;
 }
 
 
@@ -85,12 +85,6 @@
     position: relative;
     display: flex;
  }
-
-.motivo2DX {
-    
-}
-
-
 
  #skibidibop {
     position: absolute;
